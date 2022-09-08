@@ -1,0 +1,54 @@
+<!-- 
+Online HTML, CSS and JavaScript editor to run code online.
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Browser</title>
+</head>
+
+<body>
+  <h1>
+   My Info
+  </h1>
+   
+  <div>My name is mukul</div>
+  <DIV>I am Avaliable for hire</DIV>
+  <div>My hour old price was <s>$10</s> and the new price is <p>$30</p> </div>
+  
+<div>Visit my website from this link <a href="https://www.w3schools.com/">click here</a></div>
+  <hr></hr>
+
+  
+ <h1>Here is some of my clients</h1>
+  <img src= "netflix.jpg" width="200" height = "200">
+<hr></hr>
+  <h1>My skills</h1>
+ <ul>
+      <li>HTML</li>
+        <li>CSS</li>
+           <li>Java script</li>
+            <ul type = "circle "><li>Vuejs</li></ul>
+              <ul type = "circle "><li>Reactjs</li></ul>
+                  <ul type = "circle "><li>Angular</li></ul>
+   <ol type="1" start = "4" >
+<li>        V4.0
+ <ol start = "4"><li>V5.0</li></ol>
+<ol start = "4"><li>V6.0</li></ol>
+<ol start = "4"><li>V7.0</li></ol>
+<ol start = "4"><li>V8.0</li></ol>
+</li>
+
+      </ol>
+<ul type = "circle "><li>Svelte</li></ul>
+
+           <li>Python</li>         
+</ul>
+
+</body>
+
+</html>
