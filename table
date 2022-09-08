@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+
+<body>
+ <table border="1">
+<thead>
+   <tr>
+  <th>s.no</th>
+  <th>name</th>
+   <th>course</th>
+     
+     </tr>
+<tr >
+
+  <td rwospan ="2">1.</td>
+<td>Divya</td>
+<td>MCA</td>
+</tr> 
+<tr>
+<td>amit</td>
+<td>CSE</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Akshay</td>
+<td>
+<ol>
+<li>
+peel of top point
+ </li>
+<li>
+Place another cookies in the middle
+ </li>
+<li>
+Put back the top part
+ </li>
+</ol>
+</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Sakshi</td>
+<td>CS
+</td>
+<tr>
+<td colspan="3"><center>End Details </center></td>
+</tr>
+</tr>
+  </table>
+<p>
+The <abbr title ="WORLD HEALTH ORGANIZATION">WHO</abbr> was founded in 1948
+</p> 
+</body>
+</html>
